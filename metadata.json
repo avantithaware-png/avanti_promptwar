@@ -1,0 +1,6 @@
+{
+  "name": "Aperture — Decision Blind Spot Studio",
+  "description": "An AI-powered critical thinking companion that uncovers hidden assumptions, overlooked consequences, and cognitive blind spots in complex decisions without making the decision for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
